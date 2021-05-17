@@ -1,3 +1,5 @@
 Python version 3.9.1
-json verson 12
-request version 11
+json verson 12.2.1
+request version 11.2.1
+Win32.comclient 21.3.1
+inbuild (timer) 3.9.2
